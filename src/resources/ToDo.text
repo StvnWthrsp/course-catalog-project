@@ -1,0 +1,15 @@
+Save button
+
+Potentially use stream, instead of making a new dataModel with a new Object[][] item, use
+	a stream to add each row individually.
+	
+Save database when editing cells?
+	Requires extensive error checking, so no, but future work
+	
+Should the database be updated in realtime or only when saved??
+	Currently updates the SQL in realtime
+		Possibly necessary, considering the adding entries part (newTable.getData()?)
+		However, also possible to build a new database separate from saved one...
+	Probably doesn't matter, mention it in the ReadMe though
+	
+Add instructors back at some point

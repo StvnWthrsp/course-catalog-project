@@ -1,0 +1,7 @@
+CS402, Computer Science I, The first computer science class, Computer Science, 4
+CS404, Computer Science II, Error 404 not found, Computer Science, 4
+CS350, Databases, a pretty cool class, Computer Science, 4
+JA307, Intermediate Japanese, super fun, World Language, 4
+AS305, American Studies, boring, AmStud, 5
+PH307, Physics, Feezeeks, Physics, 5
+CH402, AP Chemistry, Not easy, Chemistry, 4
